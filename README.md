@@ -10,7 +10,7 @@
 
 ## How to Play
 
-1. **Moving Tiles**: Players can slide tiles in any of the four directions (up, down, left, right). On a computer, this is done using arrow keys; on a touchscreen device, you swipe.
+1. **Moving Tiles**: Players can slide tiles in any of the four directions (up, down, left, right) using the arrow keys or WASD.
 
 2. **Combining Tiles**: When two tiles with the same number touch due to a move, they merge into a single tile. The value of the new tile is the sum of the two original tiles (e.g., two 2s combine to form a 4).
 
@@ -25,14 +25,6 @@
 ## Strategy
 
 - As the game progresses, it becomes more challenging to manage the grid and combine tiles effectively.
-
-## Platforms
-
-- "2048" is available on various platforms, including web browsers, smartphones, and tablets.
-
-## Variations
-
-- Numerous variations and clones of "2048" exist, each introducing unique features and twists to the core gameplay.
 
 ---
 
